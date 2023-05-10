@@ -8,3 +8,6 @@
 1. Run "python controller.py 1"
 2. Run the game in single player mode and connect to the gyro bot same as before.
 3. The new bot.py file will read the model from .pkl file and make predictions.
+
+
+## Game is Street Fighter Turbo 2 ran using EvoHawk emulator.
